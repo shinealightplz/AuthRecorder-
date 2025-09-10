@@ -1,0 +1,25 @@
+# AuthRecorder Pro v2.0.0 - Requirements
+# Core dependencies for authentication capture and replay
+
+# HTTP client for testing and requests
+requests>=2.28.0
+
+# Browser automation
+playwright>=1.40.0
+
+# Rich console output and logging
+rich>=13.0.0
+
+# Template engine for script generation
+jinja2>=3.1.0
+
+# Progress bars and CLI utilities
+tqdm>=4.64.0
+
+# Optional: MITM proxy for enhanced capture
+mitmproxy>=10.0.0
+
+# Optional: Additional utilities
+# selenium>=4.0.0  # Alternative browser automation
+# beautifulsoup4>=4.11.0  # HTML parsing
+# lxml>=4.9.0  # XML/HTML processing
